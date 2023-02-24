@@ -6,8 +6,8 @@ p {
   b {
     background: black;
   }
-}
 
-body {
-  color: blue;
+  &:hover {
+    color: #fff;
+  }
 }
