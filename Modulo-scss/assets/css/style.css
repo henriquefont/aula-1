@@ -1,17 +1,37 @@
-.btn, .btn-laranja {
+.btn-laranja {
   width: 200px;
   padding: 10px;
   background: none;
   border: 0;
   border-radius: 10px;
-}
-
-.btn-laranja {
+  display: block;
+  margin: 10px 0;
   background: orange;
+  color: #fff;
 }
 
-p {
-  color: orange;
+.btn-roxo {
+  width: 200px;
+  padding: 10px;
+  background: none;
+  border: 0;
+  border-radius: 10px;
+  display: block;
+  margin: 10px 0;
+  background: purple;
+  color: #fff;
+}
+
+.btn-amarelo {
+  width: 200px;
+  padding: 10px;
+  background: none;
+  border: 0;
+  border-radius: 10px;
+  display: block;
+  margin: 10px 0;
+  background: yellow;
+  color: #000;
 }
 
 /*# sourceMappingURL=style.css.map */
