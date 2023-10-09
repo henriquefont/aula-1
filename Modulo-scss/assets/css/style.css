@@ -1,4 +1,4 @@
-.btn-laranja {
+.btn {
   width: 200px;
   padding: 10px;
   background: none;
@@ -6,30 +6,16 @@
   border-radius: 10px;
   display: block;
   margin: 10px 0;
+}
+.btn.btn-laranja {
   background: orange;
   color: #fff;
 }
-
-.btn-roxo {
-  width: 200px;
-  padding: 10px;
-  background: none;
-  border: 0;
-  border-radius: 10px;
-  display: block;
-  margin: 10px 0;
+.btn.btn-roxo {
   background: purple;
   color: #fff;
 }
-
-.btn-amarelo {
-  width: 200px;
-  padding: 10px;
-  background: none;
-  border: 0;
-  border-radius: 10px;
-  display: block;
-  margin: 10px 0;
+.btn.btn-amarelo {
   background: yellow;
   color: #000;
 }
